@@ -70,7 +70,7 @@ class MainActivity : AppCompatActivity() {
                     item_num["2"] = nameTable_3
                 }
                 a += 1
-
+                receipts["name"] = "Walmart"
                 receipts["items"] = item_num
                 val db = FirebaseFirestore.getInstance()
                 db.collection("receipt").document(str)
