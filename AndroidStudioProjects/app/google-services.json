@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "782747317747",
+    "firebase_url": "https://hack2019-b95de.firebaseio.com",
+    "project_id": "hack2019-b95de",
+    "storage_bucket": "hack2019-b95de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782747317747:android:92cf74cba11484ad",
+        "android_client_info": {
+          "package_name": "com.example.billviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782747317747-35a0kakan4upkh7pnrh4tkktuvms2dsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXoEpkEzk5LufLpQwGjG4R5kRxYYKe4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782747317747:android:edf41cdd32c87476",
+        "android_client_info": {
+          "package_name": "com.example.kasat.qrfirebasegenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782747317747-35a0kakan4upkh7pnrh4tkktuvms2dsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXoEpkEzk5LufLpQwGjG4R5kRxYYKe4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782747317747:android:a653665db349ec2f",
+        "android_client_info": {
+          "package_name": "com.example.kasat.qrgeneratorv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782747317747-8rlv40co1tcvetp5j8cq7njsijhbhp52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kasat.qrgeneratorv2",
+            "certificate_hash": "d21351662932ba0dbc38e7636a39d19f9701ec28"
+          }
+        },
+        {
+          "client_id": "782747317747-35a0kakan4upkh7pnrh4tkktuvms2dsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXoEpkEzk5LufLpQwGjG4R5kRxYYKe4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782747317747-35a0kakan4upkh7pnrh4tkktuvms2dsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
